@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    padding-top: 240px;
+    padding-bottom: 5px;
+    background: linear-gradient(#8bd3f0 0%, #e693e4 100%);
+}
+
+p {
+    font-size: 20px;
+}
+
+img {
+    width: 175px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+}
+
